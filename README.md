@@ -1,2 +1,2 @@
 # PlateRecognitionYOLO
-Repository for number plate recognition using YOLOv8
+Repository for number plate recognition using YOLOv3
